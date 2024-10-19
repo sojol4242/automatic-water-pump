@@ -13,4 +13,6 @@
  2. Plant watering
  3. IoT (Will be include)
  4. Water Level Detection and automatic control the pump (will be include)
-``` 
+```
+# Device
+![device](.jpg)
