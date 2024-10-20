@@ -15,4 +15,4 @@
  4. Water Level Detection and automatic control the pump (will be include)
 ```
 # Device
-![device](.jpg)
+![device](https://i.ibb.co.com/hmv5PRz/IMG-3743.jpg)
